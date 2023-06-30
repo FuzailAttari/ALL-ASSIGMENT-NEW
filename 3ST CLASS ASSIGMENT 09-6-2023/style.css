@@ -1,0 +1,13 @@
+body{ background-image: url(./Image/72785em_biryani_625x300_06_December_21.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1{
+    color: rgb(243, 212, 10);
+}
+p{
+    font-size: larger;
+}
+h2{
+    color: brown;
+}

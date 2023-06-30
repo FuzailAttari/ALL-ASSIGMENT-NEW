@@ -1,0 +1,27 @@
+/* h1,p{
+    color: rgb(18, 3, 32);
+}
+.F{
+    color: blue;
+}
+.list{
+    color: darkmagenta;
+} */
+
+h1 {
+    font-family: "Courier New", monospace;
+} 
+    i {
+    color: green;} 
+    i {
+    color: red;} 
+    b {
+    color: pink;} 
+    p b {
+    color: rgb(10, 10, 237) !important;} 
+    p b {
+    color: violet;}
+    p#intro {
+    font-size: 100%;}
+    p {
+    font-size: 75%;}
