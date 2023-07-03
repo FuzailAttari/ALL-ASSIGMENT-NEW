@@ -2,3 +2,18 @@
     color: rgba(5, 19, 19, 0.4);
     background-color: aqua;
 } */
+body{
+    background-color: brown;
+}
+.post,h1{
+    color: aqua;
+    
+}
+.post>p{
+    color: bisque;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
