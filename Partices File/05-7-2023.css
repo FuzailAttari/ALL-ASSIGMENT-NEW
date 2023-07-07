@@ -1,0 +1,42 @@
+/* .box{
+    background-color: brown;
+    height: 400px;
+}
+.child{
+background-color: rgb(164, 103, 23);
+width:100% ;
+} */
+
+/* .class{
+    P HAVE DEFUAL PADDING
+    width: 300px;
+    color: blueviolet;
+    background-color: aqua;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    border: 10px solid green;
+    border-bottom-color:red ;
+    border-top-color:red ;
+    border-bottom-width:7px ;
+    border-radius: 25px;
+    padding: 100px;
+    margin: auto;
+    display: inline-block;
+
+} */
+/* Material color */
+
+.box{
+    width: 500px;
+    height: 300px;
+    margin: 100px auto;
+    background-color: whitesmoke;
+    
+    /* box-shadow: 10px 5px 5px red; */
+    box-shadow:  3px 3px red, -1em 0 .4em olive;;
+    border-radius: 105px;
+
+    
+
+}
