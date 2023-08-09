@@ -1,0 +1,405 @@
+@media only screen and (max-width: 800px) 
+    .container  {
+
+        
+    }
+
+
+@font-face {
+    font-family: "futurak";
+    src: url(./FONT/futurak.ttf);
+}
+
+@font-face {
+    font-family: "aperculight";
+    src: url(./FONT/aperculight.otf);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-aroun
+    padding-top: 10px;
+    background-color: black;
+    
+    
+}
+.logo>img{
+    width: 170px;
+}
+
+menu,ul,li{
+    display: flex;
+    display: inline-block;
+    padding-left: 50px;
+    padding-top: 6px;
+    color: white;
+    
+    
+}
+li>button{
+    font-size: larger;
+    /* background-color: black;
+    color: azure; */
+    border-radius: 25px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-color: aliceblue;
+
+    
+}
+li>button:hover {
+    color: white;
+    background-color: red;
+}   
+/* logo page complete */
+/* step 2nd start  */
+.class2>img{
+    width: 100%;
+
+}
+
+/* CLASS3 */
+.class3{
+    background-color: black;
+    padding-top: 10px;
+}
+
+.heading{
+    
+    text-align: center;
+    margin: 20px;
+    line-height: 1.3cm;
+    font-size: 20px;
+    
+    }
+.page-name{
+
+    font-family: "futurak";
+    color: white;
+    font-size: larger;
+    
+}
+.heading>h1{
+
+    font-family: "aperculight";
+    color: white;
+    font-weight: lighter;
+
+}
+.heading>p{
+
+    font-size: 18px;
+    font-family: Century;
+    color: rgba(255, 255, 255, 0.7);
+
+
+}
+.class3img{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.img>p>button{
+    font-size: larger;
+    padding: 15px 102px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    border-color: aliceblue;
+    margin-left: 30px;
+    
+}
+.img>p{
+ padding-top: 20px; 
+ padding-bottom: 20px;  
+    
+}
+/* Div k andar S */
+    
+.S{
+    background-color:rgba(0, 0, 0, 0.9);;
+   
+}
+.Slogo>h6{
+    position: absolute;
+    font-family: "futurak";
+    font-size: 600px;
+    color: rgba(128, 128, 128, 0.1);
+    right:50px ;
+    
+    
+    
+}
+
+/* CLASS 4 */
+
+
+.class4{
+    padding-top: 20px;
+    line-height: 4cm;
+    position: relative;
+}
+
+
+
+
+.page-name2{
+
+    font-family: "futurak";
+    color: white;
+    font-size: 50px;
+    
+    
+    
+}
+.heading1{
+    
+    text-align: center;
+    margin: 20px;
+    line-height: 1.3cm;
+    font-size: 20px;
+    
+    }
+    .heading1>h1{
+
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: white;
+        font-weight: bold;
+        font-size: 50px;
+    
+    }
+    .heading1>p{
+    
+        font-size: 18px;
+        font-family: Century;
+        color: rgba(255, 255, 255, 0.7);
+    
+    
+    }
+
+        /* Text class */
+ .text{
+    display: flex;
+    justify-content: center;
+ }       
+    
+    small{
+        color: brown;
+        letter-spacing: .3cm;
+        font-weight: bolder;
+        font-size: 15px;
+        
+    }
+    .page-name3{
+        font-family: "futurak";
+        color: white;
+        font-size: 50px;
+        line-height: 2cm;
+
+    }
+    
+
+    .text1>p{
+        font-size: 18px;
+        font-family: Century;
+        color: rgba(255, 255, 255, 0.7);
+        line-height: 1cm;
+    }
+    .text1{
+        justify-content: space-around;
+        padding-top: 30px;
+    }
+    .textimg>img{
+        width: 650px;
+        padding-top: 30px;
+        padding-left: 150px;
+
+    }
+    .text1>button {
+    font-size: larger;
+    border-radius: 25px;
+    padding: 12px 30px;
+    background-color: black;
+    color: white;
+    border-color: aliceblue;
+    
+
+    }
+    .text1>button:hover{
+        background-color: blueviolet;
+    }
+    /* class5 */
+
+    
+    .Plogo>h6{
+        position: absolute;
+        font-family: "futurak";
+        font-size: 600px;
+        color: rgba(128, 128, 128, 0.2);
+        background-color: black;
+        
+        
+        
+        
+    }
+    .class5{
+        background-color: black;
+    }
+    .class5img
+    {
+        display: flex;
+        justify-content: center;
+        justify-content: space-around;
+        padding-top: 30px;
+        
+    }
+    .img1>img{
+
+        width: 400px;
+    }
+
+/* text2 & text3  */
+
+.text2{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+h4{
+
+        color: brown;
+        letter-spacing: .2cm;
+        font-weight: bolder;
+        font-size: 15px;
+        padding-top: 20px;
+        
+}
+.text3>p{
+    font-size: 18px;
+    font-family: Century;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 1cm;
+
+}
+.page-name4{
+    font-family: "futurak";
+    color: #FFFFFF;
+    font-size: 30px;
+    line-height: 2cm;
+    
+
+}
+.text3>h1{
+    color: aliceblue;
+}
+.text3>button {
+    font-size: larger;
+    border-radius: 25px;
+    padding: 12px 30px;
+    background-color: black;
+    color: white;
+    border-color: aliceblue;
+    
+
+    }
+    .text3>button:hover{
+        background-color: blueviolet;
+    }
+    .class7{
+        display: flex;
+        justify-content: center;
+        
+
+    }
+    .img2>img{
+
+        width: 800px; 
+        height: 400px;
+        margin-right: 30px;
+        margin-left: 00px;
+    }
+    .end{
+        display: flex;
+        justify-content: center;
+        justify-content: space-around;
+    }
+    /* location */
+
+    .main-box{
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+        padding-top: 10px;
+        background-color: black;
+        background-color: rgba(199, 57, 57, 0.1);
+
+    }
+    .box1>img{
+        width: 80px;
+        padding-top: 30px;
+       
+    }
+    .box1{
+        border: 1px solid rgb(12, 12, 12);
+        border-radius: 10px;
+        height: 250px;
+        width: 350px;
+        border-color: antiquewhite;
+        background-color: aliceblue;
+       
+        
+    }
+    .soon{
+        color: #FFFFFF;
+        font-size: 30px;
+    }
+.class8{
+
+    background-color: black;
+    width: 100%;
+    height: 60vh;
+}
+    .class8>h1{
+        color: #FFFFFF;
+        text-align: center;
+        padding-top: 30px;
+    }
+    .class8img{
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+
+    .new>img{
+        object-fit: cover;
+        width: 270px;
+    }
+    .end{
+        
+        width: 100%;
+        height: 60vh;
+    }
+.endimg>img{
+    width: 200px;
+    padding: 30px;  
+}
+.ul>p{
+    color: #FFFFFF;
+    line-height: 1.2cm;
+}
+.ul>h3{
+    color: #FFFFFF;
+    padding-top: 30px;
+}
+.endimg>p{
+    color: #FFFFFF;
+}
+
