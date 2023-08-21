@@ -20,28 +20,36 @@
 // }
 // ===========================================================================
 
-var userinput = +prompt( 'Enter percentage')
+// var userinput = +prompt( 'Enter percentage')
 
-if ( userinput >= 80 && userinput < 101){
-    document.write( 'A+')
-}
+// if ( userinput >= 80 && userinput < 101){
+//     document.write( 'A+')
+// }
 
-else if (userinput >= 70 && userinput < 80)
-{
-    document.write( 'A')
-}
-else if ( userinput >= 60  && userinput < 70 )
-{
-    document.write( 'B')
-}
-else if ( userinput >= 50  && userinput < 60 )
-{
-    document.write( 'C')
-}
-else if ( userinput >= 40  && userinput < 50 )
-{
-    document.write( 'D')
-}
-else {
-    document.write( 'fail')
-}
+// else if (userinput >= 70 && userinput < 80)
+// {
+//     document.write( 'A')
+// }
+// else if ( userinput >= 60  && userinput < 70 )
+// {
+//     document.write( 'B')
+// }
+// else if ( userinput >= 50  && userinput < 60 )
+// {
+//     document.write( 'C')
+// }
+// else if ( userinput >= 40  && userinput < 50 )
+// {
+//     document.write( 'D')
+// }
+// else {
+//     document.write( 'fail')
+// }
+
+
+var arr =[ "fuzail" , "raza", "attari"]
+var returnvalue= arr.pop ()
+arr.shift ( )
+
+console.log( returnvalue)
+console.log (arr)
