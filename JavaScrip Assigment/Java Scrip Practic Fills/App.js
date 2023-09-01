@@ -47,9 +47,55 @@
 // }
 
 
-var arr =[ "fuzail" , "raza", "attari"]
-var returnvalue= arr.pop ()
-arr.shift ( )
 
-console.log( returnvalue)
-console.log (arr)
+// var arr =[ "fuzail" , "raza", "attari"]
+// var returnvalue= arr.pop ()
+// arr.shift ( )
+
+// console.log( returnvalue)
+// console.log (arr)
+
+// ============================28-8-2023 class====================
+
+// var text = " my name is fuzail";
+
+// for ( var i = 0 ; i < text.length; i++) {
+//     console.log
+//     ( i)
+// }.
+
+
+var arr = ["fuzail", "Raza","ahmed", "Memon"];
+
+[arr[0],arr[3]] = [arr[3],arr[0]];
+
+console.log(arr);
+
+var arr [23,44, 76, 86, 89, 10, 54,33,22,11]
+
+    
+    var min arr[0 ] var max arr[0]
+    
+    
+    for (var i=0; i < arr.length; i++){ if (min>arr[1]){
+    
+    min = arr[1]
+    
+    }
+    
+    for (var i=0; i > arr.length; i++){
+    if (maxcarr[1]){
+    
+    max= arr[1]
+    }
+    
+
+    ]
+    
+    }
+    
+    
+    console.log(max) 
+    console.log(min)
+    
+    I
